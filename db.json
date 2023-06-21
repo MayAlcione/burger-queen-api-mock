@@ -102,6 +102,36 @@
       "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
       "role": "admin",
       "id": 2
+    },
+    {
+      "email": "correo@example.com",
+      "password": "$2a$10$1zgWB2STM71VKo1hJhTkyusVP2ayzdSSWMBrk/Vzrz5WSbgRwkzbC",
+      "role": "rol",
+      "id": 3
+    },
+    {
+      "email": "mar@mail.com",
+      "password": "$2a$10$g/g/.VCuKzKHRLNKmPK1KORH9lkZug.ktqOR.8vcXdoAk/S8IwoMi",
+      "role": "Mesera",
+      "id": 4
+    },
+    {
+      "email": "luca@mail.com",
+      "password": "$2a$10$UqrT1BwxonNZYpPUr0/7H.yBBwpZwtVwf/mrXhyicjOQ9fF1Ps2fy",
+      "role": "Cocinero",
+      "id": 5
+    },
+    {
+      "email": "lua@mail.com",
+      "password": "$2a$10$/3MmYv0Q1Epjdb5bMb8TleA9EpMwVvVSzU.Hj1jkzjFA1AYm4uwD2",
+      "role": "admin",
+      "id": 6
+    },
+    {
+      "email": "mario@mail.com",
+      "password": "$2a$10$mkCMPl8RfvI2E.f1GuzzU.vlQHkJM9CK8av45DOLQZURv6bHsi0jW",
+      "role": "Cocinero",
+      "id": 7
     }
   ]
 }
