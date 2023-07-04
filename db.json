@@ -67,7 +67,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Sandwich de jamón y queso",
+      "name": "Sandwich de jamón y quesos",
       "price": 1000,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
       "type": "Desayuno",
@@ -93,45 +93,51 @@
   "users": [
     {
       "email": "anita.borg@systers.xyz",
-      "password": "$2a$10$gVkmcWdnwEBxXj2PWjuv9uDx7BfjiAobbabDAOrH2o8b1i3E7KwR.",
-      "role": "admin",
+      "password": "$2a$10$dgC6TWcxFRfiLRl2ZqbrseSOL/JVhRAJHppLdB9FIWppi8isk2xZ6",
+      "role": "Administrador",
       "id": 1
     },
     {
       "email": "grace.hopper@systers.xyz",
-      "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
-      "role": "admin",
+      "password": "$2a$10$I9qjoK5tf9LkKQuZG9qI0.6iVu9BtKrz647yyR4Aj60Uh2OClHbwq",
+      "role": "Administrador",
       "id": 2
     },
     {
-      "email": "correo@example.com",
-      "password": "$2a$10$1zgWB2STM71VKo1hJhTkyusVP2ayzdSSWMBrk/Vzrz5WSbgRwkzbC",
-      "role": "rol",
-      "id": 3
-    },
-    {
-      "email": "mar@mail.com",
-      "password": "$2a$10$g/g/.VCuKzKHRLNKmPK1KORH9lkZug.ktqOR.8vcXdoAk/S8IwoMi",
-      "role": "Mesera",
-      "id": 4
-    },
-    {
       "email": "luca@mail.com",
-      "password": "$2a$10$UqrT1BwxonNZYpPUr0/7H.yBBwpZwtVwf/mrXhyicjOQ9fF1Ps2fy",
-      "role": "Cocinero",
+      "password": "$2a$10$tKeWTTWSICOEd/5QSki4cOOAzVzj9dDy8qaT9h6g/tH98BXzxjh/G",
+      "role": "Mesero",
       "id": 5
     },
     {
-      "email": "lua@mail.com",
-      "password": "$2a$10$/3MmYv0Q1Epjdb5bMb8TleA9EpMwVvVSzU.Hj1jkzjFA1AYm4uwD2",
-      "role": "admin",
-      "id": 6
-    },
-    {
       "email": "mario@mail.com",
-      "password": "$2a$10$mkCMPl8RfvI2E.f1GuzzU.vlQHkJM9CK8av45DOLQZURv6bHsi0jW",
+      "password": "$2a$10$DMJnjldY89loK.KPWAHYdOobRxk9L/2t.J61ReCfff7K/0/nrglWW",
       "role": "Cocinero",
       "id": 7
+    },
+    {
+      "email": "adm@mail.com",
+      "password": "$2a$10$APCTz166RaSo7k6Qn1Z4f.ri5M0Kpv62s9Qj0V.vN.xqu5mS1dtSm",
+      "role": "Administrador",
+      "id": 8
+    },
+    {
+      "email": "ahn@mail.com",
+      "password": "$2a$10$g4ME3PIsoQC6W6oo/dOLN.LLBBGVoZU57y0pRGDyATHXzP6W/X9eK",
+      "role": "Cocinero",
+      "id": 9
+    },
+    {
+      "email": "test@mail.com",
+      "password": "$2a$10$UoSPnXkSLinN84QLnzD6S.DdPFjOTLxzeYxGWOaMc24Cr23g3R33O",
+      "role": "Test",
+      "id": 11
+    },
+    {
+      "email": "una@mail.com",
+      "password": "$2a$10$BTYVRIzTAYJDOenMVKuGC.yqmP2SXXgy78gyfsKQjoqNhQuqyedgW",
+      "role": "Mesera",
+      "id": 12
     }
   ]
 }
