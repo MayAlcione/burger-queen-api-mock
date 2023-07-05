@@ -177,14 +177,14 @@
       "id": 1,
       "name": "Café americano",
       "price": 5,
-      "image": "/assets/images/cafeamericano.png",
+      "image": "https://raw.githubusercontent.com/MayAlcione/burger-queen-api-mock/main/resources/images/cafeamericano.png",
       "type": "Desayuno",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "name": "Café con leche",
       "price": 7,
-      "image": "/assets/images/cafeconleche.png",
+      "image": "https://raw.githubusercontent.com/MayAlcione/burger-queen-api-mock/main/resources/images/cafeconleche.png",
       "type": "Desayuno",
       "dateEntry": "2023-07-04 21:30",
       "id": 2
@@ -192,7 +192,7 @@
     {
       "name": "Jugo de frutas",
       "price": 7,
-      "image": "/assets/images/jugodefrutas.png",
+      "image": "https://raw.githubusercontent.com/MayAlcione/burger-queen-api-mock/main/resources/images/jugodefrutas.png",
       "type": "Desayuno",
       "dateEntry": "2023-07-04 21:31",
       "id": 3
@@ -200,7 +200,7 @@
     {
       "name": "Chicha morada",
       "price": 5,
-      "image": "/assets/images/chichamorada.png",
+      "image": "https://raw.githubusercontent.com/MayAlcione/burger-queen-api-mock/main/resources/images/chichamorada.png",
       "type": "Desayuno",
       "dateEntry": "2023-07-05 13:01",
       "id": 4
@@ -208,7 +208,7 @@
     {
       "name": "Hamburguesa simple",
       "price": 10,
-      "image": "/assets/images/burgersimple.png",
+      "image": "https://raw.githubusercontent.com/MayAlcione/burger-queen-api-mock/main/resources/images/burgersimple.png",
       "type": "Almuerzo",
       "dateEntry": "2023-07-04 21:32",
       "id": 5
@@ -216,7 +216,7 @@
     {
       "name": "Hamburguesa doble",
       "price": 15,
-      "image": "/assets/images/burgerdoble.png",
+      "image": "https://raw.githubusercontent.com/MayAlcione/burger-queen-api-mock/main/resources/images/burgerdoble.png",
       "type": "Almuerzo",
       "dateEntry": "2023-07-04 21:33",
       "id": 6
@@ -224,7 +224,7 @@
     {
       "name": "Papas fritas",
       "price": 5,
-      "image": "/assets/images/papasfritas.png",
+      "image": "https://raw.githubusercontent.com/MayAlcione/burger-queen-api-mock/main/resources/images/papasfritas.png",
       "type": "Almuerzo",
       "dateEntry": "2023-07-04 21:34",
       "id": 7
@@ -232,7 +232,7 @@
     {
       "name": "Aros de cebolla",
       "price": 5,
-      "image": "/assets/images/arosdecebolla.png",
+      "image": "https://raw.githubusercontent.com/MayAlcione/burger-queen-api-mock/main/resources/images/arosdecebolla.png",
       "type": "Almuerzo",
       "dateEntry": "2023-07-04 21:35",
       "id": 8
@@ -240,7 +240,7 @@
     {
       "name": "Salchipapa",
       "price": 15,
-      "image": "/assets/images/salchipapa.png",
+      "image": "https://raw.githubusercontent.com/MayAlcione/burger-queen-api-mock/main/resources/images/salchipapa.png",
       "type": "Almuerzo",
       "dateEntry": "2023-07-05 13:14",
       "id": 9
@@ -248,7 +248,7 @@
     {
       "name": "Tteokbokki",
       "price": 15,
-      "image": "/assets/images/tteokbokki.png",
+      "image": "https://raw.githubusercontent.com/MayAlcione/burger-queen-api-mock/main/resources/images/tteokbokki.png",
       "type": "Almuerzo",
       "dateEntry": "2023-07-05 12:25",
       "id": 10
@@ -256,7 +256,7 @@
     {
       "name": "Ramen",
       "price": 20,
-      "image": "/assets/images/ramen.png",
+      "image": "https://raw.githubusercontent.com/MayAlcione/burger-queen-api-mock/main/resources/images/ramen.png",
       "type": "Almuerzo",
       "dateEntry": "2023-07-05 13:07",
       "id": 11
@@ -265,14 +265,14 @@
       "id": 12,
       "name": "Agua 500ml",
       "price": 5,
-      "image": "/assets/images/agua500ml.png",
+      "image": "https://raw.githubusercontent.com/MayAlcione/burger-queen-api-mock/main/resources/images/agua500ml.png",
       "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "name": "Agua 750 ml",
       "price": 7,
-      "image": "/assets/images/agua750ml.png",
+      "image": "https://raw.githubusercontent.com/MayAlcione/burger-queen-api-mock/main/resources/images/agua750ml.png",
       "type": "Almuerzo",
       "dateEntry": "2023-07-04 21:36",
       "id": 13
@@ -280,7 +280,7 @@
     {
       "name": "Bebida/gaseosa 500 ml",
       "price": 7,
-      "image": "/assets/images/gaseosa500ml.webp",
+      "image": "https://raw.githubusercontent.com/MayAlcione/burger-queen-api-mock/main/resources/images/gaseosa500ml.webp",
       "type": "Almuerzo",
       "dateEntry": "2023-07-04 21:37",
       "id": 14
@@ -288,7 +288,7 @@
     {
       "name": "Bebida/gaseosa 750 ml",
       "price": 10,
-      "image": "/assets/images/gaseosa750ml.png",
+      "image": "https://raw.githubusercontent.com/MayAlcione/burger-queen-api-mock/main/resources/images/gaseosa750ml.png",
       "type": "Almuerzo",
       "dateEntry": "2023-07-04 21:38",
       "id": 15
@@ -296,7 +296,7 @@
     {
       "name": "Matcha latte",
       "price": 7,
-      "image": "/assets/images/teamatcha.png",
+      "image": "https://raw.githubusercontent.com/MayAlcione/burger-queen-api-mock/main/resources/images/teamatcha.png",
       "type": "Almuerzo",
       "dateEntry": "2023-07-05 12:26",
       "id": 16
@@ -305,14 +305,14 @@
       "id": 17,
       "name": "Sandwich de jamón y queso",
       "price": 10,
-      "image": "/assets/images/sandiwchjq.png",
+      "image": "https://raw.githubusercontent.com/MayAlcione/burger-queen-api-mock/main/resources/images/sandiwchjq.png",
       "type": "Desayuno",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "name": "Papa rellena",
       "price": 10,
-      "image": "/assets/images/paparellena.png",
+      "image": "https://raw.githubusercontent.com/MayAlcione/burger-queen-api-mock/main/resources/images/paparellena.png",
       "type": "Desayuno",
       "dateEntry": "2023-07-05 12:33",
       "id": 18
@@ -320,7 +320,7 @@
     {
       "name": "Tamal",
       "price": 10,
-      "image": "/assets/images/tamal.png",
+      "image": "https://raw.githubusercontent.com/MayAlcione/burger-queen-api-mock/main/resources/images/tamal.png",
       "type": "Desayuno",
       "dateEntry": "2023-07-05 12:59",
       "id": 19
