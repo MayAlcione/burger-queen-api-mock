@@ -1,101 +1,5 @@
 {
-  "orders": [
-    {
-      "userId": 8,
-      "client": "Saturno - mesa 4",
-      "products": [
-        {
-          "qty": 1,
-          "product": {
-            "id": 1214,
-            "name": "Sandwich de jamón y queso",
-            "price": 10,
-            "image": "../../../../../assets/sandiwchJamonQueso.png",
-            "type": "Desayuno",
-            "dateEntry": "2022-03-05 15:14:10"
-          }
-        },
-        {
-          "qty": 1,
-          "product": {
-            "id": 7450,
-            "name": "Café americano",
-            "price": 5,
-            "image": "../../../../../assets/cafeAmericano.png",
-            "type": "Desayuno",
-            "dateEntry": "2022-03-05 15:14:10"
-          }
-        },
-        {
-          "qty": 1,
-          "product": {
-            "id": 1709,
-            "name": "Sandwich de jamón y palta",
-            "price": 10,
-            "image": "../../../../../assets/sandiwchJamonQueso.png",
-            "type": "Desayuno",
-            "dateEntry": "2022-03-05 15:14:10"
-          }
-        }
-      ],
-      "status": "pending",
-      "dateEntry": "Mon Jul 03 2023 23:57:08 GMT-0400 (hora estándar de Chile)",
-      "id": 13
-    },
-    {
-      "userId": 8,
-      "client": "Todoroki - mesa 2",
-      "products": [
-        {
-          "qty": 1,
-          "product": {
-            "id": 8452,
-            "name": "Agua 750ml",
-            "price": 7,
-            "image": "../../../../../assets/Agua750.png",
-            "type": "Almuerzo",
-            "dateEntry": "2022-03-05 15:14:10"
-          }
-        }
-      ],
-      "status": "pending",
-      "dateEntry": "Tue Jul 04 2023 00:05:30 GMT-0400 (hora estándar de Chile)",
-      "dateProcessed": "",
-      "id": 14
-    },
-    {
-      "userId": 8,
-      "client": "Tiburonsin - mesa 5",
-      "products": [
-        {
-          "qty": 1,
-          "product": {
-            "id": 7450,
-            "name": "Café americano",
-            "price": 5,
-            "image": "../../../../../assets/cafeAmericano.png",
-            "type": "Desayuno",
-            "dateEntry": "2022-03-05 15:14:10"
-          }
-        },
-        {
-          "qty": 1,
-          "product": {
-            "id": 8452,
-            "name": "Agua 750ml",
-            "price": 7,
-            "image": "../../../../../assets/Agua750.png",
-            "type": "Almuerzo",
-            "dateEntry": "2022-03-05 15:14:10"
-          }
-        }
-      ],
-      "status": "pending",
-      "dateEntry": "2023-07-04T05:03:52.394Z",
-      "dateProcessed": "",
-      "id": 15
-    }
-  ],
+  "orders": [],
   "products": [
     {
       "id": 1,
@@ -214,28 +118,16 @@
       "id": 5
     },
     {
-      "email": "adm@burger.queen",
-      "password": "$2a$10$s7WJHHF6yP9iygD/DD7DC.h8GCMKKO5cgwIP0qpWOQGllC2b9VJt6",
-      "role": "Administrador",
-      "id": 8
-    },
-    {
       "email": "ahn@burger.queen",
-      "password": "$2a$10$EKh8LZw/6UOap7XhVVOW7.4pNrV8bTHPsfjrvepdKeQ8Qo5x6GuCW",
-      "role": "Cocinero",
+      "password": "$2a$10$7UvsXvK881S9XMISBaWHzuVrG1zEMh.TlSOCmd3/Eca8xg.JlwSoi",
+      "role": "Administrador",
       "id": 9
     },
     {
-      "email": "test@mail.com",
-      "password": "$2a$10$UoSPnXkSLinN84QLnzD6S.DdPFjOTLxzeYxGWOaMc24Cr23g3R33O",
-      "role": "Test",
-      "id": 11
-    },
-    {
-      "email": "kira@burger.queen",
-      "password": "$2a$10$ZqBXMBwY7jFng23vicj0Ies6hQw3f41ODLNKw9.B4rhkI/hHgnLru",
-      "role": "Mesera",
-      "id": 8
+      "email": "kang@burger.queen",
+      "password": "$2a$10$FK7zH55J7f3DGNZXBZY8Nuen/pQO0Ud907hjD2KlBFr0HskI48IY2",
+      "role": "Cocinero",
+      "id": 10
     }
   ]
 }
