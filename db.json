@@ -136,26 +136,20 @@
       "id": 2
     },
     {
-      "email": "luca@mail.com",
-      "password": "$2a$10$tKeWTTWSICOEd/5QSki4cOOAzVzj9dDy8qaT9h6g/tH98BXzxjh/G",
+      "email": "luca@burger.queen",
+      "password": "$2a$10$e6kO1tyNEZQPEMlXGtnhjeZt108cwYsN9k7nA2NrLx9Ug7Gpbf2SK",
       "role": "Mesero",
       "id": 5
     },
     {
-      "email": "mario@mail.com",
-      "password": "$2a$10$DMJnjldY89loK.KPWAHYdOobRxk9L/2t.J61ReCfff7K/0/nrglWW",
-      "role": "Cocinero",
-      "id": 7
-    },
-    {
-      "email": "adm@mail.com",
-      "password": "$2a$10$APCTz166RaSo7k6Qn1Z4f.ri5M0Kpv62s9Qj0V.vN.xqu5mS1dtSm",
+      "email": "adm@burger.queen",
+      "password": "$2a$10$s7WJHHF6yP9iygD/DD7DC.h8GCMKKO5cgwIP0qpWOQGllC2b9VJt6",
       "role": "Administrador",
       "id": 8
     },
     {
-      "email": "ahn@mail.com",
-      "password": "$2a$10$g4ME3PIsoQC6W6oo/dOLN.LLBBGVoZU57y0pRGDyATHXzP6W/X9eK",
+      "email": "ahn@burger.queen",
+      "password": "$2a$10$EKh8LZw/6UOap7XhVVOW7.4pNrV8bTHPsfjrvepdKeQ8Qo5x6GuCW",
       "role": "Cocinero",
       "id": 9
     },
@@ -164,12 +158,6 @@
       "password": "$2a$10$UoSPnXkSLinN84QLnzD6S.DdPFjOTLxzeYxGWOaMc24Cr23g3R33O",
       "role": "Test",
       "id": 11
-    },
-    {
-      "email": "mario@mail.com",
-      "password": "$2a$10$mkCMPl8RfvI2E.f1GuzzU.vlQHkJM9CK8av45DOLQZURv6bHsi0jW",
-      "role": "Cocinero",
-      "id": 7
     },
     {
       "email": "kira@burger.queen",
