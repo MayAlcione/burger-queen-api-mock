@@ -99,17 +99,17 @@
   "products": [
     {
       "id": 1,
-      "name": "Sandwich de jamón y quesos",
-      "price": 1000,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
+      "name": "Sandwich de jamón y queso",
+      "price": "5",
+      "image": "e74d6a9701a6976e2b3b4eb0e9fc3e26.png  ",
       "type": "Desayuno",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 2,
       "name": "Café americano",
-      "price": 500,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
+      "price": "1",
+      "image": "580b57fbd9996e24bc43c0e8.png  ",
       "type": "Desayuno",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -117,9 +117,81 @@
       "id": 3,
       "name": "Agua 500ml",
       "price": 500,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+      "image": "botella500ml-aguazero.png  ",
       "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
+    },
+    {
+      "name": "Café con leche",
+      "price": 2,
+      "image": "pngegg (1).png",
+      "type": "Desayuno",
+      "dateEntry": "2023-07-04 21:30",
+      "id": 4
+    },
+    {
+      "name": "Jugo de frutas",
+      "price": 3,
+      "image": "kisspng-orange-juice-fruit-clip-art-grapefruit-5ab49cc93ce488.0106558015217860572494.png  ",
+      "type": "Desayuno",
+      "dateEntry": "2023-07-04 21:31",
+      "id": 5
+    },
+    {
+      "name": "Hamburguesa simples",
+      "price": 10,
+      "image": "Burger-PNG-Image.png  ",
+      "type": "Almuerzo",
+      "dateEntry": "2023-07-04 21:32",
+      "id": 6
+    },
+    {
+      "name": "Hamburguesa doble",
+      "price": 17,
+      "image": "Double-Cheese-Burger-PNG-File.png  ",
+      "type": "Almuerzo",
+      "dateEntry": "2023-07-04 21:33",
+      "id": 7
+    },
+    {
+      "name": "Papa fritas",
+      "price": 9,
+      "image": "585ac0544f6ae202fedf2939.png",
+      "type": "Almuerzo",
+      "dateEntry": "2023-07-04 21:34",
+      "id": 8
+    },
+    {
+      "name": "Aros de cebolla",
+      "price": 9,
+      "image": "ElPanzon-ArosCebolla.png",
+      "type": "Almuerzo",
+      "dateEntry": "2023-07-04 21:35",
+      "id": 9
+    },
+    {
+      "name": "Agua 750 ml",
+      "price": 2,
+      "image": "Water-Bottle-PNG-Transparent-Image.png",
+      "type": "Almuerzo",
+      "dateEntry": "2023-07-04 21:36",
+      "id": 10
+    },
+    {
+      "name": "Bebida/gaseosa 500 ml",
+      "price": 3,
+      "image": "1622070365283.webp",
+      "type": "Almuerzo",
+      "dateEntry": "2023-07-04 21:37",
+      "id": 11
+    },
+    {
+      "name": "Bebida/gaseosa 750 ml",
+      "price": 4,
+      "image": "pngegg.png  ",
+      "type": "Almuerzo",
+      "dateEntry": "2023-07-04 21:38",
+      "id": 12
     }
   ],
   "users": [
