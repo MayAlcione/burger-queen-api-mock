@@ -128,6 +128,12 @@
       "password": "$2a$10$FK7zH55J7f3DGNZXBZY8Nuen/pQO0Ud907hjD2KlBFr0HskI48IY2",
       "role": "Cocinero",
       "id": 10
+    },
+    {
+      "email": "indira@burger.queen",
+      "password": "$2a$10$/m8j5hKo3NHufkVCO/yQq.Jn3ib8KlFNKrTWF3BzP/nynB3wKdkaa",
+      "role": "Administrador",
+      "id": 11
     }
   ]
 }
