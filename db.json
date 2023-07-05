@@ -144,7 +144,7 @@
     {
       "id": 1,
       "name": "Sandwich de jamón y queso",
-      "price": "10",
+      "price": 10,
       "image": "e74d6a9701a6976e2b3b4eb0e9fc3e26.png  ",
       "type": "Desayuno",
       "dateEntry": "2022-03-05 15:14:10"
@@ -152,7 +152,7 @@
     {
       "id": 2,
       "name": "Café americano",
-      "price": "5",
+      "price": 5,
       "image": "580b57fbd9996e24bc43c0e8.png  ",
       "type": "Desayuno",
       "dateEntry": "2022-03-05 15:14:10"
@@ -160,14 +160,14 @@
     {
       "id": 3,
       "name": "Agua 500ml",
-      "price": "5",
+      "price": 5,
       "image": "botella500ml-aguazero.png  ",
       "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "name": "Café con leche",
-      "price": "7",
+      "price": 7,
       "image": "pngegg (1).png",
       "type": "Desayuno",
       "dateEntry": "2023-07-04 21:30",
@@ -175,7 +175,7 @@
     },
     {
       "name": "Jugo de frutas",
-      "price": "7",
+      "price": 7,
       "image": "kisspng-orange-juice-fruit-clip-art-grapefruit-5ab49cc93ce488.0106558015217860572494.png  ",
       "type": "Desayuno",
       "dateEntry": "2023-07-04 21:31",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Hamburguesa simple",
-      "price": "10",
+      "price": 10,
       "image": "Burger-PNG-Image.png  ",
       "type": "Almuerzo",
       "dateEntry": "2023-07-04 21:32",
@@ -191,7 +191,7 @@
     },
     {
       "name": "Hamburguesa doble",
-      "price": "15",
+      "price": 15,
       "image": "Double-Cheese-Burger-PNG-File.png  ",
       "type": "Almuerzo",
       "dateEntry": "2023-07-04 21:33",
@@ -199,7 +199,7 @@
     },
     {
       "name": "Papas fritas",
-      "price": "5",
+      "price": 5,
       "image": "585ac0544f6ae202fedf2939.png",
       "type": "Almuerzo",
       "dateEntry": "2023-07-04 21:34",
@@ -207,7 +207,7 @@
     },
     {
       "name": "Aros de cebolla",
-      "price": "5",
+      "price": 5,
       "image": "ElPanzon-ArosCebolla.png",
       "type": "Almuerzo",
       "dateEntry": "2023-07-04 21:35",
@@ -215,7 +215,7 @@
     },
     {
       "name": "Agua 750 ml",
-      "price": "7",
+      "price": 7,
       "image": "Water-Bottle-PNG-Transparent-Image.png",
       "type": "Almuerzo",
       "dateEntry": "2023-07-04 21:36",
@@ -223,7 +223,7 @@
     },
     {
       "name": "Bebida/gaseosa 500 ml",
-      "price": "7",
+      "price": 7,
       "image": "1622070365283.webp",
       "type": "Almuerzo",
       "dateEntry": "2023-07-04 21:37",
@@ -231,7 +231,7 @@
     },
     {
       "name": "Bebida/gaseosa 750 ml",
-      "price": "10",
+      "price": 10,
       "image": "pngegg.png  ",
       "type": "Almuerzo",
       "dateEntry": "2023-07-04 21:38",
