@@ -262,7 +262,15 @@
       "id": 11
     },
     {
-      "id": 12,
+      "name": "Matcha latte",
+      "price": 7,
+      "image": "https://raw.githubusercontent.com/MayAlcione/burger-queen-api-mock/main/resources/images/teamatcha.png",
+      "type": "Almuerzo",
+      "dateEntry": "2023-07-05 12:26",
+      "id": 12
+    },
+    {
+      "id": 13,
       "name": "Agua 500ml",
       "price": 5,
       "image": "https://raw.githubusercontent.com/MayAlcione/burger-queen-api-mock/main/resources/images/agua500ml.png",
@@ -275,7 +283,7 @@
       "image": "https://raw.githubusercontent.com/MayAlcione/burger-queen-api-mock/main/resources/images/agua750ml.png",
       "type": "Almuerzo",
       "dateEntry": "2023-07-04 21:36",
-      "id": 13
+      "id": 14
     },
     {
       "name": "Bebida/gaseosa 500 ml",
@@ -283,7 +291,7 @@
       "image": "https://raw.githubusercontent.com/MayAlcione/burger-queen-api-mock/main/resources/images/gaseosa500ml.webp",
       "type": "Almuerzo",
       "dateEntry": "2023-07-04 21:37",
-      "id": 14
+      "id": 15
     },
     {
       "name": "Bebida/gaseosa 750 ml",
@@ -291,14 +299,6 @@
       "image": "https://raw.githubusercontent.com/MayAlcione/burger-queen-api-mock/main/resources/images/gaseosa750ml.png",
       "type": "Almuerzo",
       "dateEntry": "2023-07-04 21:38",
-      "id": 15
-    },
-    {
-      "name": "Matcha latte",
-      "price": 7,
-      "image": "https://raw.githubusercontent.com/MayAlcione/burger-queen-api-mock/main/resources/images/teamatcha.png",
-      "type": "Almuerzo",
-      "dateEntry": "2023-07-05 12:26",
       "id": 16
     },
     {
@@ -324,6 +324,14 @@
       "type": "Desayuno",
       "dateEntry": "2023-07-05 12:59",
       "id": 19
+    },
+    {
+      "name": "Panqueques",
+      "price": 15,
+      "image": "https://www.pngkit.com/png/full/16-165688_pancakes-png-image-ihop-pancakes-png.png",
+      "type": "Desayuno",
+      "dateEntry": "2023-07-05 20:00",
+      "id": 20
     }
   ],
   "users": [
