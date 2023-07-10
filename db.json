@@ -27,9 +27,9 @@
           }
         }
       ],
-      "status": "pending",
+      "status": "delivered",
       "dateEntry": "2023-07-05T13:54:26.588Z",
-      "dateProcessed": "",
+      "dateProcessed": "2023-07-10T18:01:05.865Z",
       "id": 1
     },
     {
@@ -70,9 +70,9 @@
           }
         }
       ],
-      "status": "pending",
+      "status": "delivered",
       "dateEntry": "2023-07-05T13:54:50.651Z",
-      "dateProcessed": "",
+      "dateProcessed": "2023-07-10T18:28:57.791Z",
       "id": 2
     },
     {
@@ -113,9 +113,9 @@
           }
         }
       ],
-      "status": "pending",
+      "status": "delivered",
       "dateEntry": "2023-07-05T13:55:20.348Z",
-      "dateProcessed": "",
+      "dateProcessed": "2023-07-10T18:42:34.664Z",
       "id": 3
     },
     {
@@ -134,9 +134,9 @@
           }
         }
       ],
-      "status": "pending",
+      "status": "delivered",
       "dateEntry": "2023-07-05T14:06:46.549Z",
-      "dateProcessed": "",
+      "dateProcessed": "2023-07-10T18:43:31.596Z",
       "id": 4
     },
     {
@@ -168,8 +168,137 @@
       ],
       "status": "pending",
       "dateEntry": "2023-07-05T23:08:01.427Z",
-      "dateProcessed": "",
+      "dateProcessed": "2023-07-10T18:51:28.018Z",
       "id": 5
+    },
+    {
+      "userId": 11,
+      "client": "Saturno - mesa 3",
+      "products": [
+        {
+          "qty": 2,
+          "product": {
+            "name": "Tapioca brasilera",
+            "price": 10,
+            "image": "https://fastacai.com.br/wp-content/themes/br_fastacai/assets/images/tapioca/tapioca-presunto-queijo.png",
+            "type": "Desayuno",
+            "dateEntry": "2023-07-06 12:48",
+            "id": 21
+          }
+        },
+        {
+          "qty": 1,
+          "product": {
+            "name": "Matcha latte",
+            "price": 7,
+            "image": "https://raw.githubusercontent.com/MayAlcione/burger-queen-api-mock/main/resources/images/teamatcha.png",
+            "type": "Almuerzo",
+            "dateEntry": "2023-07-05 12:26",
+            "id": 12
+          }
+        },
+        {
+          "qty": 3,
+          "product": {
+            "name": "Papas fritas",
+            "price": 5,
+            "image": "https://raw.githubusercontent.com/MayAlcione/burger-queen-api-mock/main/resources/images/papasfritas.png",
+            "type": "Almuerzo",
+            "dateEntry": "2023-07-04 21:34",
+            "id": 7
+          }
+        },
+        {
+          "qty": 1,
+          "product": {
+            "id": 13,
+            "name": "Agua 500ml",
+            "price": 5,
+            "image": "https://raw.githubusercontent.com/MayAlcione/burger-queen-api-mock/main/resources/images/agua500ml.png",
+            "type": "Almuerzo",
+            "dateEntry": "2022-03-05 15:14:10"
+          }
+        }
+      ],
+      "status": "pending",
+      "dateEntry": "2023-07-06T16:55:31.789Z",
+      "dateProcessed": "2023-07-10T17:44:21.123Z",
+      "id": 6
+    },
+    {
+      "userId": 5,
+      "client": "Saturno - mesa 3",
+      "products": [
+        {
+          "qty": 1,
+          "product": {
+            "name": "Bebida/gaseosa 750 ml",
+            "price": 10,
+            "image": "https://raw.githubusercontent.com/MayAlcione/burger-queen-api-mock/main/resources/images/gaseosa750ml.png",
+            "type": "Almuerzo",
+            "dateEntry": "2023-07-04 21:38",
+            "id": 16
+          }
+        },
+        {
+          "qty": 1,
+          "product": {
+            "name": "Papa rellena",
+            "price": 10,
+            "image": "https://raw.githubusercontent.com/MayAlcione/burger-queen-api-mock/main/resources/images/paparellena.png",
+            "type": "Desayuno",
+            "dateEntry": "2023-07-05 12:33",
+            "id": 18
+          }
+        }
+      ],
+      "status": "pending",
+      "dateEntry": "2023-07-07T14:33:18.302Z",
+      "dateProcessed": "2023-07-10T18:00:57.776Z",
+      "id": 7
+    },
+    {
+      "userId": 5,
+      "client": "Kvn 😠 - mesa 4",
+      "products": [
+        {
+          "qty": 1,
+          "product": {
+            "name": "Pizza",
+            "price": 20,
+            "image": "https://png.pngtree.com/png-clipart/20230412/original/pngtree-modern-kitchen-food-boxed-cheese-lunch-pizza-png-image_9048155.png",
+            "type": "Almuerzo",
+            "dateEntry": "2023-07-07 11:40",
+            "id": 22
+          }
+        },
+        {
+          "qty": 2,
+          "product": {
+            "id": 1,
+            "name": "Café americano",
+            "price": 5,
+            "image": "https://raw.githubusercontent.com/MayAlcione/burger-queen-api-mock/main/resources/images/cafeamericano.png",
+            "type": "Desayuno",
+            "dateEntry": "2022-03-05 15:14:10"
+          }
+        },
+        {
+          "qty": 1,
+          "product": {
+            "name": "Tamal",
+            "price": 10,
+            "image": "https://raw.githubusercontent.com/MayAlcione/burger-queen-api-mock/main/resources/images/tamal.png",
+            "type": "Desayuno",
+            "dateEntry": "2023-07-05 12:59",
+            "id": 19
+          }
+        }
+      ],
+      "status": "pending",
+      "dateEntry": "2023-07-07T15:46:33.876Z",
+      "dateProcessed": "2023-07-10T18:43:46.975Z",
+      "id": 8
     }
   ],
   "products": [
@@ -332,6 +461,22 @@
       "type": "Desayuno",
       "dateEntry": "2023-07-05 20:00",
       "id": 20
+    },
+    {
+      "name": "Tapioca brasilera",
+      "price": 10,
+      "image": "https://fastacai.com.br/wp-content/themes/br_fastacai/assets/images/tapioca/tapioca-presunto-queijo.png",
+      "type": "Desayuno",
+      "dateEntry": "2023-07-06 12:48",
+      "id": 21
+    },
+    {
+      "name": "Pizza",
+      "price": 20,
+      "image": "https://png.pngtree.com/png-clipart/20230412/original/pngtree-modern-kitchen-food-boxed-cheese-lunch-pizza-png-image_9048155.png",
+      "type": "Almuerzo",
+      "dateEntry": "2023-07-07 11:40",
+      "id": 22
     }
   ],
   "users": [
