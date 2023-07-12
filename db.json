@@ -308,7 +308,8 @@
       "price": 5,
       "image": "https://raw.githubusercontent.com/MayAlcione/burger-queen-api-mock/main/resources/images/cafeamericano.png",
       "type": "Desayuno",
-      "dateEntry": "2022-03-05 15:14:10"
+      "dateEntry": "2022-03-05 15:14:10",
+      "selectedType": "almuerzo"
     },
     {
       "name": "Café con leche",
