@@ -773,6 +773,12 @@
       "password": "$2a$10$/m8j5hKo3NHufkVCO/yQq.Jn3ib8KlFNKrTWF3BzP/nynB3wKdkaa",
       "role": "Administrador",
       "id": 11
+    },
+    {
+      "email": "una@burger.queen",
+      "password": "$2a$10$/rTcc1z2GoFekiFxAWfoVecO5Tkg.YncA.YE07LVUFODgiA7s5sGa",
+      "role": "Mesera",
+      "id": 12
     }
   ]
 }
